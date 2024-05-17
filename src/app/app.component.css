@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+
+th, td,th{
+    border: solid black 2px;
+    align-items: center;
+}
+td,table{
+    margin: 0 auto;
+    width: 50%;
+}
